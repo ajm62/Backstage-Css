@@ -1,0 +1,17 @@
+/*
+  Objects are rules that focus only on structure and layout. No decorative styles allowed.
+  The Object classes use common structure patterns.
+
+  Changing these values will affect everywhere they are used.
+*/
+
+
+
+.o-flex {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-content: center;
+    align-content: center;
+}
