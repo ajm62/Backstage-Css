@@ -1,31 +1,4 @@
-/* Table of Contents 
------------------------------------------------
-- General Content
-- Typography
-- Header & Navigation
-- Images & Media
-- Footer 
-- Responsive
-- Media Queries
-----------------------------------------------*/
 
-/* General Content 
------------------------------------------------ */
-
-/* Typography 
------------------------------------------------ */
-
-/* Header & Navigation 
------------------------------------------------ */
-
-/* Images & Media
------------------------------------------------ */
-
-/* Footer
------------------------------------------------ */
-
-/* Responsive
-----------------------------------------------*/
 /* This code allows you to create columns for gid design */
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
@@ -38,7 +11,7 @@
 .col-9 {width: 75%;}
 .col-10 {width: 83.33%;}
 .col-11 {width: 91.66%;}
-.col-12 {width: 100%;} 
+.col-12 {width: 100%;}
 
  {
     box-sizing: border-box;
@@ -53,6 +26,3 @@
 [class*="col-"] {
     float: left;
 }
-
-/* Media Queries
------------------------------------------------ */
