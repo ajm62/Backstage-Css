@@ -9,3 +9,18 @@ First you need to create a parent div with a class of row:
 <div class="row">
 </div>
 ```
+
+Then you need to create more nested divs that add up to 12 under that div:
+```html
+<div class="row">
+    <div class="col-3">
+        <!--some content-->
+    </div>
+    <div class="col-9">
+        <!--some content-->
+    </div>
+</div>
+```
+
+You can use any combination of col classes has long as each row adds up to 12 columns.  
+
